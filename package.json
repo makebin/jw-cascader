@@ -7,5 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "TIM"
+  "author": "bin",
+  "license": "MIT",
+  "keywords": [
+    "uni components",
+    "cascader",
+    "liu-choose-address"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makebin/jw-cascader"
+  },
 }
