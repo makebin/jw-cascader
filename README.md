@@ -24,3 +24,4 @@ export default {
     }
 }
 ```
+基于[liu-choose-address](https://ext.dcloud.net.cn/plugin?id=11155)的二次开发
