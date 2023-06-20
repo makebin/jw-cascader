@@ -1,0 +1,11 @@
+{
+  "name": "jw-cascader",
+  "version": "1.0.0",
+  "description": "简单好用的多级选择器，省市区多级级联选择，可自定义选择级别和内容，支持接口异步加载数据",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "TIM"
+}
